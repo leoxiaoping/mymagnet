@@ -8,3 +8,4 @@ a win32 tool making a margurl from bt torrent in golang
 截图：
 
 
+![描述](https://github.com/minicase/mymagnet/blob/master/%E6%88%AA%E5%9B%BE20171121003603.png?raw=true)
